@@ -54,7 +54,7 @@
   "engines": {
     "node": ">=4.1.1"
   },
-  "homepage": "https://github.com/DoctorMcKay/node-steam-client",
+  "homepage": "https://github.com/xmgh/node-steam-client",
   "keywords": [
     "steam",
     "steam client"
@@ -63,7 +63,7 @@
   "name": "steam-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoctorMcKay/node-steam-client.git"
+    "url": "git+https://github.com/xmgh/node-steam-client.git"
   },
   "scripts": {
     "prepublish": "node scripts/prepublish.js"
